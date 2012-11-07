@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;pom.dlugosc(...)&apos; to &apos;leng&apos;&#x0D;&#x0A;- Original project: &apos;SVD&apos;&#x0D;&#x0A;- Original element: &apos;pom.dlugosc(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;pom.leng(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;dlugosc&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{pom.java[pom~dlugosc~\[D" name="leng" references="true" stamp="1352281968833" version="1.0"/>
+</session>

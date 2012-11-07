@@ -6,12 +6,12 @@ public class pom {
 
 				similarity += vec1[i] * vec2[i];
 		}
-			similarity = similarity / (dlugosc(vec1) * dlugosc(vec2));
+			similarity = similarity / (leng(vec1) * leng(vec2));
 
 		return similarity;
 	}
 	
-	private static double dlugosc(double[] vec) {
+	private static double leng(double[] vec) {
 		double len = 0;
 		for (int i = 0; i < vec.length; i++) {
 			len += vec[i] * vec[i];
